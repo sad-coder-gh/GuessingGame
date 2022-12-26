@@ -1,0 +1,1 @@
+Here is some C code that prompts the user to guess two random numbers between 0 and 15, and checks if the sum of the numbers is equal to 2. If the sum is equal to 2, it prints "You won!", and if the sum is greater than 2, it prints "Trying again". The code allows the user to make three guesses, and if none of the guesses are correct, it prints "Try again later!
